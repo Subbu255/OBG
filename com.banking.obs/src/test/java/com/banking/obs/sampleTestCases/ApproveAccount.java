@@ -10,5 +10,12 @@ public class ApproveAccount {
 		
 		System.out.println("---approve account ----");
 	}
+	
+	@Test
+	public void registAccount() {
+		
+		
+		System.out.println("---regist account ---");
+	}
 
 }
